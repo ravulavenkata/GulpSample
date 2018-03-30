@@ -1,0 +1,132 @@
+\\psf\home\Documents\Visual Studio 2015\Projects\GulpSample\GulpSample\bin\roslyn\csc.exe
+\\psf\home\Documents\Visual Studio 2015\Projects\GulpSample\GulpSample\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\psf\home\Documents\Visual Studio 2015\Projects\GulpSample\GulpSample\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\psf\home\Documents\Visual Studio 2015\Projects\GulpSample\GulpSample\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\psf\home\Documents\Visual Studio 2015\Projects\GulpSample\GulpSample\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\psf\home\Documents\Visual Studio 2015\Projects\GulpSample\GulpSample\bin\roslyn\Microsoft.CSharp.Core.targets
+\\psf\home\Documents\Visual Studio 2015\Projects\GulpSample\GulpSample\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\psf\home\Documents\Visual Studio 2015\Projects\GulpSample\GulpSample\bin\roslyn\System.Collections.Immutable.dll
+\\psf\home\Documents\Visual Studio 2015\Projects\GulpSample\GulpSample\bin\roslyn\System.Reflection.Metadata.dll
+\\psf\home\Documents\Visual Studio 2015\Projects\GulpSample\GulpSample\bin\roslyn\vbc.exe
+\\psf\home\Documents\Visual Studio 2015\Projects\GulpSample\GulpSample\bin\roslyn\VBCSCompiler.exe
+\\psf\home\Documents\Visual Studio 2015\Projects\GulpSample\GulpSample\bin\roslyn\VBCSCompiler.exe.config
+\\psf\home\Documents\Visual Studio 2015\Projects\GulpSample\GulpSample\bin\GulpSample.dll.config
+\\psf\home\Documents\Visual Studio 2015\Projects\GulpSample\GulpSample\bin\GulpSample.dll
+\\psf\home\Documents\Visual Studio 2015\Projects\GulpSample\GulpSample\bin\GulpSample.pdb
+\\psf\home\Documents\Visual Studio 2015\Projects\GulpSample\GulpSample\bin\Antlr3.Runtime.dll
+\\psf\home\Documents\Visual Studio 2015\Projects\GulpSample\GulpSample\bin\AspNet.ScriptManager.bootstrap.dll
+\\psf\home\Documents\Visual Studio 2015\Projects\GulpSample\GulpSample\bin\AspNet.ScriptManager.jQuery.dll
+\\psf\home\Documents\Visual Studio 2015\Projects\GulpSample\GulpSample\bin\EntityFramework.dll
+\\psf\home\Documents\Visual Studio 2015\Projects\GulpSample\GulpSample\bin\EntityFramework.SqlServer.dll
+\\psf\home\Documents\Visual Studio 2015\Projects\GulpSample\GulpSample\bin\Microsoft.AspNet.FriendlyUrls.dll
+\\psf\home\Documents\Visual Studio 2015\Projects\GulpSample\GulpSample\bin\Microsoft.AspNet.Identity.Core.dll
+\\psf\home\Documents\Visual Studio 2015\Projects\GulpSample\GulpSample\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+\\psf\home\Documents\Visual Studio 2015\Projects\GulpSample\GulpSample\bin\Microsoft.AspNet.Identity.Owin.dll
+\\psf\home\Documents\Visual Studio 2015\Projects\GulpSample\GulpSample\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+\\psf\home\Documents\Visual Studio 2015\Projects\GulpSample\GulpSample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\psf\home\Documents\Visual Studio 2015\Projects\GulpSample\GulpSample\bin\Microsoft.Owin.dll
+\\psf\home\Documents\Visual Studio 2015\Projects\GulpSample\GulpSample\bin\Microsoft.Owin.Host.SystemWeb.dll
+\\psf\home\Documents\Visual Studio 2015\Projects\GulpSample\GulpSample\bin\Microsoft.Owin.Security.Cookies.dll
+\\psf\home\Documents\Visual Studio 2015\Projects\GulpSample\GulpSample\bin\Microsoft.Owin.Security.dll
+\\psf\home\Documents\Visual Studio 2015\Projects\GulpSample\GulpSample\bin\Microsoft.Owin.Security.Facebook.dll
+\\psf\home\Documents\Visual Studio 2015\Projects\GulpSample\GulpSample\bin\Microsoft.Owin.Security.Google.dll
+\\psf\home\Documents\Visual Studio 2015\Projects\GulpSample\GulpSample\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+\\psf\home\Documents\Visual Studio 2015\Projects\GulpSample\GulpSample\bin\Microsoft.Owin.Security.OAuth.dll
+\\psf\home\Documents\Visual Studio 2015\Projects\GulpSample\GulpSample\bin\Microsoft.Owin.Security.Twitter.dll
+\\psf\home\Documents\Visual Studio 2015\Projects\GulpSample\GulpSample\bin\Microsoft.ScriptManager.MSAjax.dll
+\\psf\home\Documents\Visual Studio 2015\Projects\GulpSample\GulpSample\bin\Microsoft.ScriptManager.WebForms.dll
+\\psf\home\Documents\Visual Studio 2015\Projects\GulpSample\GulpSample\bin\Microsoft.Web.Infrastructure.dll
+\\psf\home\Documents\Visual Studio 2015\Projects\GulpSample\GulpSample\bin\Newtonsoft.Json.dll
+\\psf\home\Documents\Visual Studio 2015\Projects\GulpSample\GulpSample\bin\Owin.dll
+\\psf\home\Documents\Visual Studio 2015\Projects\GulpSample\GulpSample\bin\System.Web.Optimization.dll
+\\psf\home\Documents\Visual Studio 2015\Projects\GulpSample\GulpSample\bin\System.Web.Providers.dll
+\\psf\home\Documents\Visual Studio 2015\Projects\GulpSample\GulpSample\bin\WebGrease.dll
+\\psf\home\Documents\Visual Studio 2015\Projects\GulpSample\GulpSample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\psf\home\Documents\Visual Studio 2015\Projects\GulpSample\GulpSample\bin\System.Web.Optimization.xml
+\\psf\home\Documents\Visual Studio 2015\Projects\GulpSample\GulpSample\bin\Antlr3.Runtime.pdb
+\\psf\home\Documents\Visual Studio 2015\Projects\GulpSample\GulpSample\bin\Newtonsoft.Json.xml
+\\psf\home\Documents\Visual Studio 2015\Projects\GulpSample\GulpSample\bin\Microsoft.AspNet.FriendlyUrls.xml
+\\psf\home\Documents\Visual Studio 2015\Projects\GulpSample\GulpSample\bin\EntityFramework.xml
+\\psf\home\Documents\Visual Studio 2015\Projects\GulpSample\GulpSample\bin\EntityFramework.SqlServer.xml
+\\psf\home\Documents\Visual Studio 2015\Projects\GulpSample\GulpSample\bin\Microsoft.AspNet.Identity.Core.xml
+\\psf\home\Documents\Visual Studio 2015\Projects\GulpSample\GulpSample\bin\Microsoft.AspNet.Identity.Owin.xml
+\\psf\home\Documents\Visual Studio 2015\Projects\GulpSample\GulpSample\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+\\psf\home\Documents\Visual Studio 2015\Projects\GulpSample\GulpSample\bin\System.Web.Providers.xml
+\\psf\home\Documents\Visual Studio 2015\Projects\GulpSample\GulpSample\bin\Microsoft.Owin.xml
+\\psf\home\Documents\Visual Studio 2015\Projects\GulpSample\GulpSample\bin\Microsoft.Owin.Host.SystemWeb.xml
+\\psf\home\Documents\Visual Studio 2015\Projects\GulpSample\GulpSample\bin\Microsoft.Owin.Security.xml
+\\psf\home\Documents\Visual Studio 2015\Projects\GulpSample\GulpSample\bin\Microsoft.Owin.Security.Facebook.xml
+\\psf\home\Documents\Visual Studio 2015\Projects\GulpSample\GulpSample\bin\Microsoft.Owin.Security.Cookies.xml
+\\psf\home\Documents\Visual Studio 2015\Projects\GulpSample\GulpSample\bin\Microsoft.Owin.Security.Google.xml
+\\psf\home\Documents\Visual Studio 2015\Projects\GulpSample\GulpSample\bin\Microsoft.Owin.Security.Twitter.xml
+\\psf\home\Documents\Visual Studio 2015\Projects\GulpSample\GulpSample\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+\\psf\home\Documents\Visual Studio 2015\Projects\GulpSample\GulpSample\bin\Microsoft.Owin.Security.OAuth.xml
+\\psf\home\Documents\Visual Studio 2015\Projects\GulpSample\GulpSample\obj\Debug\GulpSample.csprojResolveAssemblyReference.cache
+\\psf\home\Documents\Visual Studio 2015\Projects\GulpSample\GulpSample\obj\Debug\GulpSample.dll
+\\psf\home\Documents\Visual Studio 2015\Projects\GulpSample\GulpSample\obj\Debug\GulpSample.pdb
+\\Mac\Data\Projects\GulpSample\GulpSample\bin\roslyn\csc.exe
+\\Mac\Data\Projects\GulpSample\GulpSample\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\Mac\Data\Projects\GulpSample\GulpSample\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\Mac\Data\Projects\GulpSample\GulpSample\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\Mac\Data\Projects\GulpSample\GulpSample\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\Mac\Data\Projects\GulpSample\GulpSample\bin\roslyn\Microsoft.CSharp.Core.targets
+\\Mac\Data\Projects\GulpSample\GulpSample\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\Mac\Data\Projects\GulpSample\GulpSample\bin\roslyn\System.Collections.Immutable.dll
+\\Mac\Data\Projects\GulpSample\GulpSample\bin\roslyn\System.Reflection.Metadata.dll
+\\Mac\Data\Projects\GulpSample\GulpSample\bin\roslyn\vbc.exe
+\\Mac\Data\Projects\GulpSample\GulpSample\bin\roslyn\VBCSCompiler.exe
+\\Mac\Data\Projects\GulpSample\GulpSample\bin\roslyn\VBCSCompiler.exe.config
+\\Mac\Data\Projects\GulpSample\GulpSample\bin\GulpSample.dll.config
+\\Mac\Data\Projects\GulpSample\GulpSample\bin\GulpSample.dll
+\\Mac\Data\Projects\GulpSample\GulpSample\bin\GulpSample.pdb
+\\Mac\Data\Projects\GulpSample\GulpSample\bin\Antlr3.Runtime.dll
+\\Mac\Data\Projects\GulpSample\GulpSample\bin\AspNet.ScriptManager.bootstrap.dll
+\\Mac\Data\Projects\GulpSample\GulpSample\bin\AspNet.ScriptManager.jQuery.dll
+\\Mac\Data\Projects\GulpSample\GulpSample\bin\EntityFramework.dll
+\\Mac\Data\Projects\GulpSample\GulpSample\bin\EntityFramework.SqlServer.dll
+\\Mac\Data\Projects\GulpSample\GulpSample\bin\Microsoft.AspNet.FriendlyUrls.dll
+\\Mac\Data\Projects\GulpSample\GulpSample\bin\Microsoft.AspNet.Identity.Core.dll
+\\Mac\Data\Projects\GulpSample\GulpSample\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+\\Mac\Data\Projects\GulpSample\GulpSample\bin\Microsoft.AspNet.Identity.Owin.dll
+\\Mac\Data\Projects\GulpSample\GulpSample\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+\\Mac\Data\Projects\GulpSample\GulpSample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\Mac\Data\Projects\GulpSample\GulpSample\bin\Microsoft.Owin.dll
+\\Mac\Data\Projects\GulpSample\GulpSample\bin\Microsoft.Owin.Host.SystemWeb.dll
+\\Mac\Data\Projects\GulpSample\GulpSample\bin\Microsoft.Owin.Security.Cookies.dll
+\\Mac\Data\Projects\GulpSample\GulpSample\bin\Microsoft.Owin.Security.dll
+\\Mac\Data\Projects\GulpSample\GulpSample\bin\Microsoft.Owin.Security.Facebook.dll
+\\Mac\Data\Projects\GulpSample\GulpSample\bin\Microsoft.Owin.Security.Google.dll
+\\Mac\Data\Projects\GulpSample\GulpSample\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+\\Mac\Data\Projects\GulpSample\GulpSample\bin\Microsoft.Owin.Security.OAuth.dll
+\\Mac\Data\Projects\GulpSample\GulpSample\bin\Microsoft.Owin.Security.Twitter.dll
+\\Mac\Data\Projects\GulpSample\GulpSample\bin\Microsoft.ScriptManager.MSAjax.dll
+\\Mac\Data\Projects\GulpSample\GulpSample\bin\Microsoft.ScriptManager.WebForms.dll
+\\Mac\Data\Projects\GulpSample\GulpSample\bin\Microsoft.Web.Infrastructure.dll
+\\Mac\Data\Projects\GulpSample\GulpSample\bin\Newtonsoft.Json.dll
+\\Mac\Data\Projects\GulpSample\GulpSample\bin\Owin.dll
+\\Mac\Data\Projects\GulpSample\GulpSample\bin\System.Web.Optimization.dll
+\\Mac\Data\Projects\GulpSample\GulpSample\bin\System.Web.Providers.dll
+\\Mac\Data\Projects\GulpSample\GulpSample\bin\WebGrease.dll
+\\Mac\Data\Projects\GulpSample\GulpSample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\Mac\Data\Projects\GulpSample\GulpSample\bin\System.Web.Optimization.xml
+\\Mac\Data\Projects\GulpSample\GulpSample\bin\Antlr3.Runtime.pdb
+\\Mac\Data\Projects\GulpSample\GulpSample\bin\Newtonsoft.Json.xml
+\\Mac\Data\Projects\GulpSample\GulpSample\bin\Microsoft.AspNet.FriendlyUrls.xml
+\\Mac\Data\Projects\GulpSample\GulpSample\bin\EntityFramework.xml
+\\Mac\Data\Projects\GulpSample\GulpSample\bin\EntityFramework.SqlServer.xml
+\\Mac\Data\Projects\GulpSample\GulpSample\bin\Microsoft.AspNet.Identity.Core.xml
+\\Mac\Data\Projects\GulpSample\GulpSample\bin\Microsoft.AspNet.Identity.Owin.xml
+\\Mac\Data\Projects\GulpSample\GulpSample\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+\\Mac\Data\Projects\GulpSample\GulpSample\bin\System.Web.Providers.xml
+\\Mac\Data\Projects\GulpSample\GulpSample\bin\Microsoft.Owin.xml
+\\Mac\Data\Projects\GulpSample\GulpSample\bin\Microsoft.Owin.Host.SystemWeb.xml
+\\Mac\Data\Projects\GulpSample\GulpSample\bin\Microsoft.Owin.Security.xml
+\\Mac\Data\Projects\GulpSample\GulpSample\bin\Microsoft.Owin.Security.Facebook.xml
+\\Mac\Data\Projects\GulpSample\GulpSample\bin\Microsoft.Owin.Security.Cookies.xml
+\\Mac\Data\Projects\GulpSample\GulpSample\bin\Microsoft.Owin.Security.Google.xml
+\\Mac\Data\Projects\GulpSample\GulpSample\bin\Microsoft.Owin.Security.Twitter.xml
+\\Mac\Data\Projects\GulpSample\GulpSample\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+\\Mac\Data\Projects\GulpSample\GulpSample\bin\Microsoft.Owin.Security.OAuth.xml
+\\Mac\Data\Projects\GulpSample\GulpSample\obj\Debug\GulpSample.csprojResolveAssemblyReference.cache
+\\Mac\Data\Projects\GulpSample\GulpSample\obj\Debug\GulpSample.dll
+\\Mac\Data\Projects\GulpSample\GulpSample\obj\Debug\GulpSample.pdb
